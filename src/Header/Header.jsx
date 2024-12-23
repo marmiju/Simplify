@@ -1,7 +1,7 @@
 
 const Header = () => {
     return (
-        <div className="flex w-full md:backdrop-blur fixed">
+        <div className="flex w-full mx-auto md:backdrop-blur ">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">

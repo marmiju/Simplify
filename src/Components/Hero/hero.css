@@ -1,0 +1,4 @@
+
+.banner{
+    @apply bg-[url('/src/assets/Images/card/bannerb.png')] text-2xl border w-[1000px] rounded h-[400px] mx-auto grid grid-cols-1 
+}
